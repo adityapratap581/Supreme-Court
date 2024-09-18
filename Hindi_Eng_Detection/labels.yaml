@@ -1,0 +1,13 @@
+path: /home/xstats/Documents/Aditya/SupremeCourtComplete/Hindi_Eng_Detection
+train: images/train
+val: images/train
+
+
+# number of classes
+nc: 02
+
+# class names
+# names: ["trafficlight","stop", "speedlimit","crosswalk"]
+names:
+ 0: English
+ 1: Hindi
